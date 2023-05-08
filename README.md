@@ -5,6 +5,8 @@ Murreviikko (literally 'Dialect week') is a campaign founded in the University o
 
 The original data was collected from Twitter with the search word murreviikko ('dialect week') and hashtag #murreviikko separately for 2020, 2021 and 2022. The current dataset combines all the original collections.
 
+The tweets are dialectologically annotated on two levels: following the East-West division of Finnish dialects, and following a seven-way division of Finnish dialects (South-West, Häme, Southern Ostrobothnia, Central and Northern Ostrobothnia, Far North, Savo, and South-East), appended with the Helsinki slang. There is also a class for dialectal tweets, which are not discernible (NA) because of contrasting or scarce dialectal features.
+
 The original tweets are normalized to a phonetic standard, but word order is not altered, or grammar rules of standard Finnish followed otherwise. This means that for instance standard Finnish possessive suffixes (minun kirja-ni 'my book-my') are not added if they are not present in the original tweet (minun kirja). Likewise, dialect words are not corrected to the standard alternative, even if such words would exist (pruukata > pruukata instead of standard tavata).
 
 Following the rules of the Twitter API, this repository only includes the tweet id's, dialect annotations and normalizations. The original tweets are available for scientific use by request, as granted by the European Union’s Digital Single Market directive (2019/790).
@@ -27,6 +29,8 @@ Following the rules of the Twitter API, this repository only includes the tweet 
 Murreviikko on Itä-Suomen yliopistossa aloitettu kampanja, jonka tavoitteena on saada ihmiset käyttämään suomen murteita sosiaalisessa mediassa. Murreviikko alkoi vuonna 2020 ja se järjestetään yleensä lokakuussa.
 
 Alkuperäinen aineisto on kerätty Twitterin API:n avulla hakusanalla murreviikko ja tunnisteella #murreviikko erikseen vuosilta 2020, 2021 ja 2022. Nykyinen aineisto yhdistää kaikkien vuosien twiitit.
+
+Twiitit on annotoitu murteen mukaan kahdella tasolla: länsi- ja itämurteisiin sekä seitsemään murreryhmään (lounaismurteet, hämäläismurteet, Etelä-Pohjanmaa, Keski- ja Pohjois-Pohjanmaa, Peräpohjola, Savo, kaakkoismurteet) ja Helsingin slangiin. Lisäksi käytetään tunnistetta NA sellaisissa murteellisissa twiiteissä, joissa murreryhmää ei ole vähäisten tai ristiriitaisten piirteiden takia mahdollista nimetä.
 
 Tavoitteena on ollut normalisoida twiitit niin, että muoto- ja äänneopilliset seikat noudattavat suomen oikeinkirjoitusta. Sen sijaan esimerkiksi sanajärjestystä ei ole muutettu tai lauseopillisia muutoksia tehty. Tämä tarkoittaa sitä, että esimerkiksi possessiivisuffikseja (minun kirja-ni) ei ole lisätty, jos niitä ei ole alkuperäisessä twiitissä. Vastaavasti murteellisia sanoja ei ole käännetty yleiskieleen, vaikka niille olisi olemassa selkeä vastine (pruukata > pruukata eikä tavata).
 
