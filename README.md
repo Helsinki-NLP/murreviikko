@@ -24,6 +24,11 @@ Following the rules of the Twitter API, this repository only includes the tweet 
 	- poikain > poikien
 	- ettei > että_ei
 
+## Citation
+Data: Kuparinen Olli. (2023). Murreviikko: an Annotated and Normalized Corpus of Dialectal Finnish Tweets (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7907535
+
+Paper: Olli Kuparinen. 2023. Murreviikko - A Dialectologically Annotated and Normalized Dataset of Finnish Tweets. In Tenth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2023), pages 31–39, Dubrovnik, Croatia. Association for Computational Linguistics. https://aclanthology.org/2023.vardial-1.3.pdf
+
 # Murreviikko
 
 Murreviikko on Itä-Suomen yliopistossa aloitettu kampanja, jonka tavoitteena on saada ihmiset käyttämään suomen murteita sosiaalisessa mediassa. Murreviikko alkoi vuonna 2020 ja se järjestetään yleensä lokakuussa.
@@ -50,3 +55,8 @@ Joitakin linjauksia koskien muoto- ja äänneopillista normalisointia:
 	- muitten > muiden
 	- poikain > poikien
 	- ettei > että_ei
+
+## Viittaus
+Data: Kuparinen Olli. (2023). Murreviikko: an Annotated and Normalized Corpus of Dialectal Finnish Tweets (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7907535
+
+Kuvaus: Olli Kuparinen. 2023. Murreviikko - A Dialectologically Annotated and Normalized Dataset of Finnish Tweets. In Tenth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2023), pages 31–39, Dubrovnik, Croatia. Association for Computational Linguistics. https://aclanthology.org/2023.vardial-1.3.pdf
